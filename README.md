@@ -1,4 +1,4 @@
-# Win10-Login-Screen-Wallpaper-Grabber
+# Windows 10 Login Screen Wallpaper Grabber
 Save a copy of your Windows 10 Login Screen Wallpaper.
 
 # Creating an Exe
